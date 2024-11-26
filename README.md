@@ -1,5 +1,5 @@
 # Introduce**
-* ㅇㅇ
+ㅇㅇ
 
 ## Career
 <details>
