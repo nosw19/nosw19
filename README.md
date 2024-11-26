@@ -51,8 +51,8 @@
 </div>
 
 <ul>
-  <details>
-    <summary>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</summary>
+<details>
+  <summary>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</summary>
     <2024.05.09 ~ 2024.11.18>
-  </details>
+</details>
 </ul>
