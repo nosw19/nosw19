@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>🏆 Career</h2>
 </div>
 
@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>✨ Contact</h2>
 </div>
 
@@ -36,10 +36,23 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>🏅 Prize</h2>
 </div>
 
 <ul>
   <li>2024 대국민 물 빅데이터 공모전 장려상 (2024.08) 🎉</li>
+</ul>
+
+---
+
+<div>
+  <h2>🤼‍♂️ Activate</h2>
+</div>
+
+<ul>
+  <details>
+    <summary>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</summary>
+    <2024.05.09 ~ 2024.11.18>
+  </details>
 </ul>
