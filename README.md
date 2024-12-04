@@ -59,9 +59,7 @@
 
 <br>
 
-# 프로젝트 포트폴리오
 
-## Projects Overview
 # 프로젝트 포트폴리오
 
 ## Projects Overview
