@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><strong>단국대학교 수학과</strong> (졸업)</td>
-    <td><li></li>2018.03 ~ 2024.08</li></td>
+    <td>2018.03 ~ 2024.08</td>
 
 </table>
 
