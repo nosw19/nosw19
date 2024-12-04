@@ -130,6 +130,5 @@
 </div>
 
 <ul>
-  프로젝트의 자세한 내용은 [노션 문서](https://www.notion.so/example-link)를 참고하세요.
-  
+  <li>SQL[노션 문서] : (https://www.notion.so/example-link)</li>  
 </ul>
