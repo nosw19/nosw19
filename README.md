@@ -130,6 +130,6 @@
 </div>
 
 <ul>
-- [SQL](https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536)
-  
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
 </ul>
+
