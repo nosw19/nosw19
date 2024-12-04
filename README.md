@@ -136,6 +136,6 @@
   <li><a href="https://www.notion.so/Python-1506f43549b580d7bf7fe1b387872020" target="_blank">Python</a></li>
   <li><a href="https://www.notion.so/Linux-1506f43549b580269017e8b9bfae5135" target="_blank">Linux</a></li>
   <li><a href="https://www.notion.so/1506f43549b58066be56fae4ed75dba7" target="_blank">딥러닝</a></li>
-  <li><a href="[https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536](https://www.notion.so/Tableau-1506f43549b5807fba51d9181207d5c4)" target="_blank">Tableau</a></li>
+  <li><a href="https://www.notion.so/Tableau-1506f43549b5807fba51d9181207d5c4" target="_blank">Tableau</a></li>
 </ul>
 
