@@ -59,8 +59,6 @@
 
 # 프로젝트 포트폴리오
 
-## Projects Overview
-
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed;">
   <tr>
     <td style="text-align: center; vertical-align: top; border: 1px solid black;">
