@@ -48,10 +48,16 @@
 </div>
 
 <ul>
-  <details>
-    <summary>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</summary>
-    <li><2024.05.09 ~ 2024.11.18></li>
-  </details>
+  <table border="1">
+  <tr>
+    <th>내용</th>
+    <th>일자</th>
+  </tr>
+  <tr>
+    <td><strong>﻿프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</strong></td>
+    <td>2024.05 ~ 2024.11</td>
+</table>
+
 </ul>
 
 <br>
