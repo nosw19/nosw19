@@ -147,15 +147,15 @@
 <table border="1">
   <tr>
     <th>자격증</th>
-    <th>내용</th>
+    <th>취득일</th>
   </tr>
   <tr>
     <td><strong>ADsP</strong> (데이터분석 준전문가)</td>
-    <td>2024.09 취득</td>
+    <td>2024.09 </td>
   </tr>
   <tr>
     <td><strong>SQLD</strong> (SQL 개발자)</td>
-    <td>2024.09 취득</td>
+    <td>2024.09 </td>
   </tr>
   <tr>
     <td rowspan="2"><strong>빅데이터 분석기사</strong></td>
