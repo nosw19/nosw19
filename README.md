@@ -79,62 +79,73 @@
 
 ## Projects Overview
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 20px 0; table-layout: fixed;">
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
-      <img src="SQL_표지.png" alt="SQL 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      <div style="padding: 10px;">
-        <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>부동산 실거래가 예측</b>
-        </a>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
-      </div>
-    </td>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
-      <img src="수자원_표지.png" alt="수자원 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
-      <div style="padding: 10px;">
-        <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>대국민 물 빅데이터 공모전</b>
-        </a>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
-      <img src="세종시_표지.png" alt="세종시 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
-      <div style="padding: 10px;">
-        <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>세종시 빅데이터 공모전</b>
-        </a>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
-      </div>
-    </td>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
-      <img src="세미_표지.png" alt="스낵 시장 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      <div style="padding: 10px;">
-        <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>스낵 시장의 트렌드와 소비자 요구</b>
-        </a>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">과자 매출액 데이터를 사용하여 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
-      <img src="파이널_표지.png" alt="헬스 헬퍼 표지" style="width: 100%; height: auto; display: block;">
-      <div style="padding: 10px;">
-        <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>헬스 헬퍼</b>
-        </a>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">운동을 분류한 후 해당 운동의 자세를 평가해주는 헬퍼를 개발한 프로젝트입니다.</p>
-      </div>
-    </td>
-    <td style="border: 1px solid black; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
-      <p style="color: gray; font-size: 14px;">추가 프로젝트 준비 중...</p>
-    </td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed; border: 1px solid black;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="text-align: center; border: 1px solid black; padding: 10px;">이미지</th>
+      <th style="text-align: center; border: 1px solid black; padding: 10px;">제목</th>
+      <th style="text-align: center; border: 1px solid black; padding: 10px;">설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <img src="SQL_표지.png" alt="SQL 프로젝트 표지" style="width: 100%; height: auto;">
+      </td>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">부동산 실거래가 예측</a>
+      </td>
+      <td style="text-align: left; vertical-align: top; border: 1px solid black; padding: 10px;">
+        SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <img src="수자원_표지.png" alt="수자원 빅데이터 공모전 표지" style="width: 100%; height: auto;">
+      </td>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">대국민 물 빅데이터 공모전</a>
+      </td>
+      <td style="text-align: left; vertical-align: top; border: 1px solid black; padding: 10px;">
+        기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <img src="세종시_표지.png" alt="세종시 빅데이터 공모전 표지" style="width: 100%; height: auto;">
+      </td>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">세종시 빅데이터 공모전</a>
+      </td>
+      <td style="text-align: left; vertical-align: top; border: 1px solid black; padding: 10px;">
+        세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <img src="세미_표지.png" alt="스낵 시장 프로젝트 표지" style="width: 100%; height: auto;">
+      </td>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">스낵 시장의 트렌드와 소비자 요구</a>
+      </td>
+      <td style="text-align: left; vertical-align: top; border: 1px solid black; padding: 10px;">
+        과자 매출 데이터를 분석하여 효과적인 성장 전략을 제안한 프로젝트입니다.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <img src="파이널_표지.png" alt="헬스 헬퍼 표지" style="width: 100%; height: auto;">
+      </td>
+      <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
+        <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">헬스 헬퍼</a>
+      </td>
+      <td style="text-align: left; vertical-align: top; border: 1px solid black; padding: 10px;">
+        운동을 분류한 후 해당 운동의 자세를 평가해주는 헬퍼를 개발한 프로젝트입니다.
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 
