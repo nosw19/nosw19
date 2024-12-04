@@ -130,5 +130,8 @@
 </div>
 
 <ul>
-  <li>[SQL] : (https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536)</li>  
+  # Study
+
+- [SQL](https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536)
+  
 </ul>
