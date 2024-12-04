@@ -79,9 +79,9 @@
 
 ## Projects Overview
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed; border: 1px solid black;">
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 20px 0; table-layout: fixed;">
   <tr>
-    <td style="text-align: center; vertical-align: top; border-right: 1px solid black; border-bottom: 1px solid black;">
+    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
       <img src="SQL_표지.png" alt="SQL 프로젝트 표지" style="width: 100%; height: auto; display: block;">
       <div style="padding: 10px;">
         <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
@@ -90,7 +90,7 @@
         <p style="margin-top: 10px; font-size: 14px; color: #333;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
       </div>
     </td>
-    <td style="text-align: center; vertical-align: top; border-bottom: 1px solid black;">
+    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
       <img src="수자원_표지.png" alt="수자원 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
       <div style="padding: 10px;">
         <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
@@ -101,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: top; border-right: 1px solid black; border-bottom: 1px solid black;">
+    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
       <img src="세종시_표지.png" alt="세종시 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
       <div style="padding: 10px;">
         <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
@@ -110,7 +110,7 @@
         <p style="margin-top: 10px; font-size: 14px; color: #333;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
       </div>
     </td>
-    <td style="text-align: center; vertical-align: top; border-bottom: 1px solid black;">
+    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
       <img src="세미_표지.png" alt="스낵 시장 프로젝트 표지" style="width: 100%; height: auto; display: block;">
       <div style="padding: 10px;">
         <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
@@ -121,7 +121,7 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: top; border-right: 1px solid black;">
+    <td style="text-align: center; vertical-align: top; border: 1px solid black; padding: 10px;">
       <img src="파이널_표지.png" alt="헬스 헬퍼 표지" style="width: 100%; height: auto; display: block;">
       <div style="padding: 10px;">
         <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
@@ -130,9 +130,12 @@
         <p style="margin-top: 10px; font-size: 14px; color: #333;">운동을 분류한 후 해당 운동의 자세를 평가해주는 헬퍼를 개발한 프로젝트입니다.</p>
       </div>
     </td>
-    <td style="text-align: center; vertical-align: top;"></td>
+    <td style="border: 1px solid black; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+      <p style="color: gray; font-size: 14px;">추가 프로젝트 준비 중...</p>
+    </td>
   </tr>
 </table>
+
 
 
 
