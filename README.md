@@ -76,44 +76,6 @@
 
 ## Projects Overview
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-  }
-  td {
-    text-align: center;
-    vertical-align: top;
-    padding: 15px;
-    border: 1px solid #ddd;
-  }
-  img {
-    width: 200px;
-    height: auto;
-    border-radius: 8px; /* 이미지 모서리 둥글게 */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 이미지 그림자 */
-  }
-  a {
-    text-decoration: none;
-    color: #007BFF;
-    font-weight: bold;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  b {
-    display: block;
-    margin: 10px 0 5px 0;
-    font-size: 16px;
-  }
-  p {
-    font-size: 14px;
-    color: #555;
-    line-height: 1.5;
-  }
-</style>
-
 <table>
   <tr>
     <td>
