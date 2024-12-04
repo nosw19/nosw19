@@ -131,5 +131,11 @@
 
 <ul>
   <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b580e09fd4e86e927a8c1d" target="_blank">SQL 튜닝</a></li>
+  <li><a href="https://www.notion.so/R-1506f43549b580f19903c64b8252ed1c" target="_blank">R</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
 </ul>
 
