@@ -139,3 +139,20 @@
   <li><a href="https://www.notion.so/Tableau-1506f43549b5807fba51d9181207d5c4" target="_blank">Tableau</a></li>
 </ul>
 
+
+<div>
+  <h2>📑 Certificate</h2>
+</div>
+
+<table>
+  <tr>
+  <td><strong>ADsP</strong> (데이터분석 준전문가)</td>
+    <td>2024.09 취득</td>
+  <td><strong>SQLD</strong> (SQL 개발자)</td>
+    <td>2024.09 취득</td>
+  <td><strong>빅데이터 분석기사</strong></td>
+    <td>2024.09 필기 합격</td>
+    <td>2025 상반기 취득 예정</td>
+</table>
+
+
