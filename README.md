@@ -75,64 +75,83 @@
 
 ## Projects Overview
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; padding: 20px;">
+# 프로젝트 포트폴리오
 
-  <!-- 카드 1 -->
-  <div style="flex: 1 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <div style="background: #f9f9f9; padding: 10px;">
-      <img src="SQL_표지.png" alt="SQL 프로젝트" style="width: 100%; height: 200px; object-fit: cover;">
-    </div>
-    <div style="padding: 15px;">
-      <strong>SQL 프로젝트</strong>
-      <p style="color: #555; font-size: 14px;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
-    </div>
-  </div>
+## Projects Overview
 
-  <!-- 카드 2 -->
-  <div style="flex: 1 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <div style="background: #f9f9f9; padding: 10px;">
-      <img src="수자원_표지.png" alt="수자원 프로젝트" style="width: 100%; height: 200px; object-fit: cover;">
-    </div>
-    <div style="padding: 15px;">
-      <strong>수자원 프로젝트</strong>
-      <p style="color: #555; font-size: 14px;">기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.</p>
-    </div>
-  </div>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed;">
+  <tr>
+    <!-- 카드 1 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+      <div>
+        <img src="SQL_표지.png" alt="SQL 프로젝트" style="width: 100%; height: auto;">
+        <div style="padding: 10px;">
+          <strong>SQL 프로젝트</strong>
+          <p style="color: #555; font-size: 14px;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
+          <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        </div>
+      </div>
+    </td>
 
-  <!-- 카드 3 -->
-  <div style="flex: 1 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <div style="background: #f9f9f9; padding: 10px;">
-      <img src="세종시_표지.png" alt="세종시 프로젝트" style="width: 100%; height: 200px; object-fit: cover;">
-    </div>
-    <div style="padding: 15px;">
-      <strong>세종시 공모전</strong>
-      <p style="color: #555; font-size: 14px;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
-    </div>
-  </div>
+    <!-- 카드 2 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+      <div>
+        <img src="수자원_표지.png" alt="수자원 프로젝트" style="width: 100%; height: auto;">
+        <div style="padding: 10px;">
+          <strong>수자원 프로젝트</strong>
+          <p style="color: #555; font-size: 14px;">기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.</p>
+          <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 카드 3 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+      <div>
+        <img src="세종시_표지.png" alt="세종시 공모전" style="width: 100%; height: auto;">
+        <div style="padding: 10px;">
+          <strong>세종시 공모전</strong>
+          <p style="color: #555; font-size: 14px;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
+          <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        </div>
+      </div>
+    </td>
 
-  <!-- 카드 4 -->
-  <div style="flex: 1 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <div style="background: #f9f9f9; padding: 10px;">
-      <img src="세미_표지.png" alt="세미 프로젝트" style="width: 100%; height: 200px; object-fit: cover;">
-    </div>
-    <div style="padding: 15px;">
-      <strong>세미 프로젝트</strong>
-      <p style="color: #555; font-size: 14px;">과자 매출 데이터를 분석하여 효과적인 성장 전략을 제안한 프로젝트입니다.</p>
-    </div>
-  </div>
+    <!-- 카드 4 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+      <div>
+        <img src="세미_표지.png" alt="세미 프로젝트" style="width: 100%; height: auto;">
+        <div style="padding: 10px;">
+          <strong>세미 프로젝트</strong>
+          <p style="color: #555; font-size: 14px;">과자 매출 데이터를 분석하여 효과적인 성장 전략을 제안한 프로젝트입니다.</p>
+          <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 카드 5 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+      <div>
+        <img src="파이널_표지.png" alt="파이널 프로젝트" style="width: 100%; height: auto;">
+        <div style="padding: 10px;">
+          <strong>파이널 프로젝트</strong>
+          <p style="color: #555; font-size: 14px;">운동 데이터를 분석하여 올바른 자세를 평가하고 추천하는 프로젝트입니다.</p>
+          <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        </div>
+      </div>
+    </td>
 
-  <!-- 카드 5 -->
-  <div style="flex: 1 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <div style="background: #f9f9f9; padding: 10px;">
-      <img src="파이널_표지.png" alt="파이널 프로젝트" style="width: 100%; height: 200px; object-fit: cover;">
-    </div>
-    <div style="padding: 15px;">
-      <strong>파이널 프로젝트</strong>
-      <p style="color: #555; font-size: 14px;">운동 데이터를 분석해 올바른 자세를 평가하고 추천하는 프로젝트입니다.</p>
-    </div>
-  </div>
+    <!-- 빈 공간 -->
+    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background-color: #f9f9f9;">
+      <div>
+        <p style="color: #aaa;">추가 프로젝트 준비 중...</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 
 
