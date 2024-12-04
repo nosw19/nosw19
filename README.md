@@ -81,76 +81,54 @@
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed;">
   <tr>
-    <!-- 카드 1 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
-      <div>
-        <img src="SQL_표지.png" alt="SQL 프로젝트" style="width: 100%; height: auto;">
-        <div style="padding: 10px;">
-          <strong>SQL 프로젝트</strong>
-          <p style="color: #555; font-size: 14px;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
-          <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
-        </div>
+    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
+      <img src="SQL_표지.png" alt="SQL 프로젝트 표지" style="width: 100%; height: auto; display: block;">
+      <div style="padding: 10px;">
+        <b>부동산 실거래가 예측</b><br>
+        <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.</p>
       </div>
     </td>
-
-    <!-- 카드 2 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
-      <div>
-        <img src="수자원_표지.png" alt="수자원 프로젝트" style="width: 100%; height: auto;">
-        <div style="padding: 10px;">
-          <strong>수자원 프로젝트</strong>
-          <p style="color: #555; font-size: 14px;">기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.</p>
-          <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
-        </div>
+    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
+      <img src="수자원_표지.png" alt="수자원 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
+      <div style="padding: 10px;">
+        <b>대국민 물 빅데이터 공모전</b><br>
+        <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.</p>
       </div>
     </td>
   </tr>
   <tr>
-    <!-- 카드 3 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
-      <div>
-        <img src="세종시_표지.png" alt="세종시 공모전" style="width: 100%; height: auto;">
-        <div style="padding: 10px;">
-          <strong>세종시 공모전</strong>
-          <p style="color: #555; font-size: 14px;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
-          <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
-        </div>
+    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
+      <img src="세종시_표지.png" alt="세종시 빅데이터 공모전 표지" style="width: 100%; height: auto; display: block;">
+      <div style="padding: 10px;">
+        <b>세종시 빅데이터 공모전</b><br>
+        <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.</p>
       </div>
     </td>
-
-    <!-- 카드 4 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
-      <div>
-        <img src="세미_표지.png" alt="세미 프로젝트" style="width: 100%; height: auto;">
-        <div style="padding: 10px;">
-          <strong>세미 프로젝트</strong>
-          <p style="color: #555; font-size: 14px;">과자 매출 데이터를 분석하여 효과적인 성장 전략을 제안한 프로젝트입니다.</p>
-          <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
-        </div>
+    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
+      <img src="세미_표지.png" alt="스낵 시장 프로젝트 표지" style="width: 100%; height: auto; display: block;">
+      <div style="padding: 10px;">
+        <b>스낵 시장의 트렌드와 소비자 요구</b><br>
+        <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">과자 매출액 데이터를 사용하여 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.</p>
       </div>
     </td>
   </tr>
   <tr>
-    <!-- 카드 5 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
-      <div>
-        <img src="파이널_표지.png" alt="파이널 프로젝트" style="width: 100%; height: auto;">
-        <div style="padding: 10px;">
-          <strong>파이널 프로젝트</strong>
-          <p style="color: #555; font-size: 14px;">운동 데이터를 분석하여 올바른 자세를 평가하고 추천하는 프로젝트입니다.</p>
-          <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
-        </div>
+    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
+      <img src="파이널_표지.png" alt="헬스 헬퍼 표지" style="width: 100%; height: auto; display: block;">
+      <div style="padding: 10px;">
+        <b>헬스 헬퍼</b><br>
+        <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">운동을 분류한 후 해당 운동의 자세를 평가해주는 헬퍼를 개발한 프로젝트입니다.</p>
       </div>
     </td>
-
-    <!-- 빈 공간 -->
-    <td style="text-align: center; vertical-align: top; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background-color: #f9f9f9;">
-      <div>
-        <p style="color: #aaa;">추가 프로젝트 준비 중...</p>
-      </div>
-    </td>
+    <td style="border: 1px solid black;"></td>
   </tr>
 </table>
+
 
 
 
