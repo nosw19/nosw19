@@ -144,15 +144,28 @@
   <h2>📑 Certificate</h2>
 </div>
 
-<table>
+<table border="1">
   <tr>
-  <td><strong>ADsP</strong> (데이터분석 준전문가)</td>
+    <th>자격증</th>
+    <th>내용</th>
+  </tr>
+  <tr>
+    <td><strong>ADsP</strong> (데이터분석 준전문가)</td>
     <td>2024.09 취득</td>
-  <td><strong>SQLD</strong> (SQL 개발자)</td>
+  </tr>
+  <tr>
+    <td><strong>SQLD</strong> (SQL 개발자)</td>
     <td>2024.09 취득</td>
-  <td><strong>빅데이터 분석기사</strong></td>
+  </tr>
+  <tr>
+    <td><strong>빅데이터 분석기사</strong></td>
     <td>2024.09 필기 합격</td>
+  </tr>
+  <tr>
+    <td><strong>빅데이터 분석기사</strong></td>
     <td>2025 상반기 취득 예정</td>
+  </tr>
 </table>
+
 
 
