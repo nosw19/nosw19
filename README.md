@@ -79,6 +79,10 @@
   <h2>📑 Projects Overview</h2>
 </div>
 
+<div>
+  <h2>📑 Projects Overview</h2>
+</div>
+
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed; border: 1px solid black;">
   <tr>
     <th style="text-align: center; border: 1px solid black; background-color: #f2f2f2;">표지</th>
@@ -156,7 +160,11 @@
       <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">PDF 보기</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" style="border: 1px solid black; text-align: center;">빈 프로젝트 (추가 데이터 없음)</td>
+  </tr>
 </table>
+
 
 
 
