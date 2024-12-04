@@ -152,6 +152,23 @@
 <br>
 
 <div>
+  <h2>📗 Study</h2>
+</div>
+
+<ul>
+  <li><a href="https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536" target="_blank">SQL</a></li>
+  <li><a href="https://www.notion.so/SQL-1506f43549b580e09fd4e86e927a8c1d" target="_blank">SQL 튜</a></li>
+  <li><a href="https://www.notion.so/R-1506f43549b580f19903c64b8252ed1c" target="_blank">R</a></li>
+  <li><a href="https://www.notion.so/Python-1506f43549b580d7bf7fe1b387872020" target="_blank">Python</a></li>
+  <li><a href="https://www.notion.so/Linux-1506f43549b580269017e8b9bfae5135" target="_blank">Linux</a></li>
+  <li><a href="https://www.notion.so/1506f43549b58066be56fae4ed75dba7" target="_blank">딥러</a></li>
+  <li><a href="https://www.notion.so/Tableau-1506f43549b5807fba51d9181207d5c4" target="_blank">Tableau</a></li>
+</ul>
+
+<br>
+
+
+<div>
   <h2>📑 Certificate</h2>
 </div>
 
