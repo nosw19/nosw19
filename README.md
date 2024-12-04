@@ -130,5 +130,5 @@
 </div>
 
 <ul>
-  <li>SQL[노션 문서] : (https://www.notion.so/example-link)</li>  
+  <li>[SQL] : (https://www.notion.so/SQL-1506f43549b58009b71ec50333b29536)</li>  
 </ul>
