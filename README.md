@@ -12,27 +12,24 @@
 
 <br>
 
-<div>
-  <h2>🏆 Career</h2>
-</div>
-
-<table>
+<table style="width: 100%; border-spacing: 10px;">
   <tr>
-    <td><strong>단국대학교 수학과</strong> (졸업)</td>
-    <td>2018.03 ~ 2024.08</td>
+    <td style="vertical-align: top; width: 50%;">
+      <h2>📚 Career</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li>👨‍🎓 <b>단국대학교 수학과 (졸업)</b></li>
+        <li>2018.03 ~ 2024.08</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <h2>📱 Contact</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li>📞 <b>010-9204-1158</b></li>
+        <li>📧 <b><a href="mailto:nosw19@naver.com" style="text-decoration: none; color: blue;">nosw19@naver.com</a></b></li>
+      </ul>
+    </td>
   </tr>
 </table>
-
-<br>
-
-<div>
-  <h2>✨ Contact</h2>
-</div>
-
-<ul>
-  <li>📞 <strong>010-9204-1158</strong></li>
-  <li>📧 <strong>nosw19@naver.com</strong> (일반 계정)</li>
-</ul>
 
 <br>
 
@@ -174,22 +171,4 @@
   </tr>
 </table>
 
-<table style="width: 100%; border-spacing: 10px;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h2>📚 Career</h2>
-      <ul style="list-style: none; padding: 0;">
-        <li>👨‍🎓 <b>단국대학교 수학과 (졸업)</b></li>
-        <li>2018.03 ~ 2024.08</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; width: 50%;">
-      <h2>📱 Contact</h2>
-      <ul style="list-style: none; padding: 0;">
-        <li>📞 <b>010-9204-1158</b></li>
-        <li>📧 <b><a href="mailto:nosw19@naver.com" style="text-decoration: none; color: blue;">nosw19@naver.com</a></b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
