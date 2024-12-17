@@ -81,7 +81,7 @@
       </div>
       <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
       <div style="padding: 10px; font-size: 14px; color: #333;">
-        SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
+        조인, 정규식 함수, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
       </div>
     </td>
     <td style="text-align: center; vertical-align: top; border: 1px solid black;">
