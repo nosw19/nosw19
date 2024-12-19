@@ -120,7 +120,7 @@ Python, geopandas, sklearn, scipy, matplotlib
 워드클라우드, 시계열 분석 등을 통해 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
 
 ### 사용 기술
-Python, Beautifulsoup, Pandas, matplotlib
+Python, Beautifulsoup, Pandas, matplotlib, Statsmodels
 
 [프로젝트 자세히 보기](./세미프로젝트.pdf)
 
