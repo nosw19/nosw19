@@ -96,7 +96,7 @@
       </div>
       <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
       <div style="padding: 10px; font-size: 14px; color: #333;">
-        기상청과 수자원 데이터를 사용하여 가뭄을 예측하는 모델을 개발한 프로젝트입니다.
+        머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.  
       </div>
     </td>
   </tr>
@@ -113,7 +113,7 @@
       </div>
       <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
       <div style="padding: 10px; font-size: 14px; color: #333;">
-        세종시 공공 전기자전거 도입을 위한 최적의 입지 선정을 주제로 진행한 프로젝트입니다.
+        MCLP ,Optics 기법 등을 사용하여 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
       </div>
     </td>
     <td style="text-align: center; vertical-align: top; border: 1px solid black;">
@@ -128,7 +128,7 @@
       </div>
       <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
       <div style="padding: 10px; font-size: 14px; color: #333;">
-        워드클라우드, 시계열 분석, 그랜저 인과성 테스트, 상관분석 등을 통하여 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
+        워드클라우드, 시계열 분석 등을 통하여 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
       </div>
     </td>
   </tr>
@@ -145,7 +145,7 @@
       </div>
       <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
       <div style="padding: 10px; font-size: 14px; color: #333;">
-        운동을 분류한 후 해당 운동의 자세를 평가해주는 헬퍼를 개발한 프로젝트입니다.
+        운동 동작 데이터와 TSM 모델을 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
       </div>
     </td>
     <td style="border: 1px solid black;"></td>
