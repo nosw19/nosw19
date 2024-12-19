@@ -67,90 +67,80 @@
 
 # 프로젝트 포트폴리오
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0; table-layout: fixed;">
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
-      <a href="./SQL프로젝트.pdf" style="text-decoration: none;">
-        <img src="SQL_표지.png" alt="SQL 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      </a>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 5px;">
-        <a href="./SQL프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>부동산 실거래가 예측</b>
-        </a>
-      </div>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 10px; font-size: 14px; color: #333;">
-        조인, 정규식 함수, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
-      </div>
-    </td>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
-      <a href="./수자원프로젝트.pdf" style="text-decoration: none;">
-        <img src="수자원_표지.png" alt="수자원 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      </a>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 5px;">
-        <a href="./수자원프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>대국민 물 빅데이터 공모전</b>
-        </a>
-      </div>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 10px; font-size: 14px; color: #333;">
-        머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.  
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
-      <a href="./세종시발표.pdf" style="text-decoration: none;">
-        <img src="세종시_표지.png" alt="세종시 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      </a>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 5px;">
-        <a href="./세종시발표.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>세종시 빅데이터 공모전</b>
-        </a>
-      </div>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 10px; font-size: 14px; color: #333;">
-        MCLP ,Optics 기법 등을 사용하여 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
-      </div>
-    </td>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
-      <a href="./세미프로젝트.pdf" style="text-decoration: none;">
-        <img src="세미_표지.png" alt="스낵 시장 프로젝트 표지" style="width: 100%; height: auto; display: block;">
-      </a>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 5px;">
-        <a href="./세미프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>스낵 시장의 트렌드와 소비자 요구</b>
-        </a>
-      </div>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 10px; font-size: 14px; color: #333;">
-        워드클라우드, 시계열 분석 등을 통하여 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: top; border: 1px solid black;">
-      <a href="./파이널프로젝트.pdf" style="text-decoration: none;">
-        <img src="파이널_표지.png" alt="헬스 헬퍼 표지" style="width: 100%; height: auto; display: block;">
-      </a>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 5px;">
-        <a href="./파이널프로젝트.pdf" style="text-decoration: none; color: blue; font-weight: bold;">
-          <b>헬스 헬퍼</b>
-        </a>
-      </div>
-      <hr style="border: 1px solid #ccc; margin: 5px 0;"> <!-- 간격 조정 -->
-      <div style="padding: 10px; font-size: 14px; color: #333;">
-        운동 동작 데이터와 TSM 모델을 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
-      </div>
-    </td>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
+# 프로젝트 목록
+
+---
+
+## 부동산 실거래가 예측
+
+[![SQL 프로젝트 표지](SQL_표지.png)](./SQL프로젝트.pdf)
+
+### 설명
+조인, 정규식 함수, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
+
+### 사용 기술
+(사용 기술 작성 예정)
+
+[프로젝트 자세히 보기](./SQL프로젝트.pdf)
+
+---
+
+## 대국민 물 빅데이터 공모전
+
+[![수자원 프로젝트 표지](수자원_표지.png)](./수자원프로젝트.pdf)
+
+### 설명
+머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.
+
+### 사용 기술
+(사용 기술 작성 예정)
+
+[프로젝트 자세히 보기](./수자원프로젝트.pdf)
+
+---
+
+## 세종시 빅데이터 공모전
+
+[![세종시 프로젝트 표지](세종시_표지.png)](./세종시발표.pdf)
+
+### 설명
+MCLP, Optics 기법 등을 사용하여 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
+
+### 사용 기술
+(사용 기술 작성 예정)
+
+[프로젝트 자세히 보기](./세종시발표.pdf)
+
+---
+
+## 스낵 시장의 트렌드와 소비자 요구
+
+[![스낵 시장 프로젝트 표지](세미_표지.png)](./세미프로젝트.pdf)
+
+### 설명
+워드클라우드, 시계열 분석 등을 통해 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
+
+### 사용 기술
+(사용 기술 작성 예정)
+
+[프로젝트 자세히 보기](./세미프로젝트.pdf)
+
+---
+
+## 헬스 헬퍼
+
+[![헬스 헬퍼 표지](파이널_표지.png)](./파이널프로젝트.pdf)
+
+### 설명
+운동 동작 데이터와 TSM 모델을 활용하여 운동에 도움을 주는 프로그램을 개발하였습니다.
+
+### 사용 기술
+(사용 기술 작성 예정)
+
+[프로젝트 자세히 보기](./파이널프로젝트.pdf)
+
+---
+
 
 
 
