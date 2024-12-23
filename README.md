@@ -134,7 +134,7 @@ Python, Beautifulsoup, Pandas, matplotlib, Statsmodels
 운동 동작 데이터와 TSM 모델을 활용하여 운동에 도움을 주는 프로그램을 개발하였습니다.
 
 ### 사용 기술
-Python, Pandas, PyTorch, Tableau
+Python, Pandas, PyTorch, Tableau, flask
 
 [프로젝트 자세히 보기](./파이널프로젝트.pdf)
 
