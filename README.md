@@ -86,7 +86,7 @@ SQL
 
 ## 대국민 물 빅데이터 공모전
 
-[![수자원 프로젝트 표지](수자원_표지.png)](./water)
+[![수자원 프로젝트 표지](수자원_표지.png)](https://github.com/nosw19/water)
 
 ### 설명
 머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.
@@ -94,13 +94,13 @@ SQL
 ### 사용 기술
 R, randomForest, caret, ggplot2, shiny
 
-[프로젝트 자세히 보기](./water)
+[프로젝트 자세히 보기](https://github.com/nosw19/water)
 
 ---
 
 ## 세종시 빅데이터 공모전
 
-[![세종시 프로젝트 표지](세종시_표지.png)](./sejong)
+[![세종시 프로젝트 표지](세종시_표지.png)](https://github.com/nosw19/sejong)
 
 ### 설명
 MCLP, Optics 기법 등을 사용하여 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
@@ -108,13 +108,13 @@ MCLP, Optics 기법 등을 사용하여 세종시의 공공전기 자전거 도�
 ### 사용 기술
 Python, geopandas, sklearn, scipy, matplotlib
 
-[프로젝트 자세히 보기](./sejong)
+[프로젝트 자세히 보기](https://github.com/nosw19/sejong)
 
 ---
 
 ## 스낵 시장의 트렌드와 소비자 요구
 
-[![스낵 시장 프로젝트 표지](세미_표지.png)](./snack)
+[![스낵 시장 프로젝트 표지](세미_표지.png)](https://github.com/nosw19/snack)
 
 ### 설명
 워드클라우드, 시계열 분석 등을 통해 스낵 시장의 효과적인 성장 전략 제안을 주제로 진행한 프로젝트입니다.
@@ -122,13 +122,13 @@ Python, geopandas, sklearn, scipy, matplotlib
 ### 사용 기술
 Python, Beautifulsoup, Pandas, matplotlib, Statsmodels
 
-[프로젝트 자세히 보기](./snack)
+[프로젝트 자세히 보기](https://github.com/nosw19/snack)
 
 ---
 
 ## 헬스 헬퍼
 
-[![헬스 헬퍼 표지](파이널_표지.png)](./deep-learning)
+[![헬스 헬퍼 표지](파이널_표지.png)](https://github.com/nosw19/deep-learning)
 
 ### 설명
 운동 동작 데이터와 TSM 모델을 활용하여 운동에 도움을 주는 프로그램을 개발하였습니다.
@@ -136,7 +136,7 @@ Python, Beautifulsoup, Pandas, matplotlib, Statsmodels
 ### 사용 기술
 Python, Pandas, PyTorch, Tableau, flask
 
-[프로젝트 자세히 보기](./deep-learning)
+[프로젝트 자세히 보기](https://github.com/nosw19/deep-learning)
 
 ---
 
