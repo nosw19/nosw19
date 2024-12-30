@@ -27,55 +27,7 @@
       <h2>📱 Contact</h2>
       <ul style="list-style: none; padding: 0;">
         <li>📞 <b>010-9204-1158</b></li>
-        <li>📧 <b><a href="mailto:nosw19@naver.com" style="text-decoration: none; color: blue;">nosw19@naver.com</a></b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div>
-  <h2>🏅 Prize</h2>
-</div>
-
-<ul>
-  <li>2024 대국민 물 빅데이터 공모전 장려상 (2024.08) 🎉</li>
-</ul>
-
-<br>
-
-<div>
-  <h2>🤼‍♂️ Activate</h2>
-</div>
-
-<ul>
-  <table border="1">
-  <tr>
-    <th>내용</th>
-    <th>일자</th>
-  </tr>
-  <tr>
-    <td><strong>﻿프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정</strong></td>
-    <td>2024.05 ~ 2024.11</td>
-</table>
-
-</ul>
-
-<br>
-
-
-# 프로젝트 포트폴리오
-
-
----
-
-## 부동산 실거래가 예측
-
-[![SQL 프로젝트 표지](SQL_표지.png)](https://github.com/nosw19/SQL)
-
-### 설명
-조인, 정규식 함수, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
+        <li>📧 <b><a href="mailto:nosw19@naver.c식, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
 
 ### 사용 기술
 SQL
