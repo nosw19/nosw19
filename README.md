@@ -78,9 +78,7 @@
 조인, 정규식 함수, 파생변수 생성, 회귀모델 등 다양한 SQL 쿼리를 사용하여 부동산의 실거래가를 예측하는 프로젝트입니다.
 
 ### 사용 기술
-<div align="left">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=Oracle&logoColor=white">
-</div>
+SQL
   
 [프로젝트 자세히 보기](https://github.com/nosw19/SQL)
 
@@ -95,12 +93,7 @@
 
 ### 사용 기술
 R, randomForest, caret, ggplot2, shiny
-<div align="left">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-    
 
-</div>
 
 [프로젝트 자세히 보기](https://github.com/nosw19/water)
 
