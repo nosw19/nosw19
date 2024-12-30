@@ -95,8 +95,11 @@
 
 ### 사용 기술
 R, randomForest, caret, ggplot2, shiny
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+    
+
 </div>
 
 [프로젝트 자세히 보기](https://github.com/nosw19/water)
