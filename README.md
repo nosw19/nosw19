@@ -79,7 +79,7 @@
 
 ### 사용 기술
 <div align="left">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
   
 [프로젝트 자세히 보기](https://github.com/nosw19/SQL)
