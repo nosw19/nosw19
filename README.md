@@ -164,7 +164,7 @@ Python, Pandas, PyTorch, Tableau, flask
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
 ---
