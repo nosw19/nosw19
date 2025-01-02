@@ -9,9 +9,8 @@
   <li>데이터 분석 결과를 효과적으로 보여줄 수 있는 <strong>데이터 시각화</strong>에 대해 관심이 많습니다.</li>
 </p>
 
-<br>
 ---
-
+<br>
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
