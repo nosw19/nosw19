@@ -178,9 +178,6 @@
     <td rowspan="2"><strong>빅데이터 분석기사</strong></td>
     <td>2024.09 필기 합격</td>
   </tr>
-  <tr>
-    <td>2025 상반기 취득 예정</td>
-  </tr>
 </table>
 
 ---
