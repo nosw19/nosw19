@@ -9,6 +9,7 @@
   <li>데이터 분석 결과를 효과적으로 보여줄 수 있는 <strong>데이터 시각화</strong>에 대해 관심이 많습니다.</li>
 </p>
 
+<br>
 ---
 
 <table style="width: 100%; border-spacing: 10px;">
@@ -30,6 +31,7 @@
   </tr>
 </table>
 
+<br>
 ---
 
 ## 📂 Projects
@@ -44,7 +46,9 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/SQL)
 
+<br>
 ---
+
 
 ### 2. **대국민 물 빅데이터 공모전**
 [![수자원 프로젝트 표지](수자원_표지.png)](https://github.com/nosw19/water)
@@ -68,6 +72,7 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/sejong)
 
+<br>
 ---
 
 ### 4. **스낵 시장의 트렌드와 소비자 요구**
@@ -80,6 +85,7 @@
 
 [![스낵 시장 프로젝트 표지](세미_표지.png)](https://github.com/nosw19/snack)
 
+<br>
 ---
 
 ### 5. **헬스 헬퍼**
@@ -92,6 +98,7 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/deep-learning)
 
+<br>
 ---
 
 ## 🛠️ Tech Stacks
@@ -146,6 +153,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
+<br>
 ---
 
 ## 📑 Certificate
@@ -172,6 +180,7 @@
   </tr>
 </table>
 
+<br>
 ---
 
 ## 📗 Study
