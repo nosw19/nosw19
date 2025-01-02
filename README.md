@@ -31,7 +31,7 @@
 </table>
 
 ---
-
+<br>
 ## 📂 Projects
 
 ### 1. **부동산 실거래가 예측**
@@ -44,9 +44,8 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/SQL)
 
-<br>
 ---
-
+<br>
 
 ### 2. **대국민 물 빅데이터 공모전**
 [![수자원 프로젝트 표지](수자원_표지.png)](https://github.com/nosw19/water)
@@ -59,6 +58,7 @@
 [프로젝트 자세히 보기](https://github.com/nosw19/water)
 
 ---
+<br>
 
 ### 3. **세종시 빅데이터 공모전**
 [![세종시 프로젝트 표지](세종시_표지.png)](https://github.com/nosw19/sejong)
@@ -70,8 +70,8 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/sejong)
 
-<br>
 ---
+<br>
 
 ### 4. **스낵 시장의 트렌드와 소비자 요구**
 
@@ -83,8 +83,9 @@
 
 [![스낵 시장 프로젝트 표지](세미_표지.png)](https://github.com/nosw19/snack)
 
-<br>
+
 ---
+<br>
 
 ### 5. **헬스 헬퍼**
 [![헬스 헬퍼 표지](파이널_표지.png)](https://github.com/nosw19/deep-learning)
@@ -96,8 +97,8 @@
 
 [프로젝트 자세히 보기](https://github.com/nosw19/deep-learning)
 
-<br>
 ---
+<br>
 
 ## 🛠️ Tech Stacks
 
@@ -151,8 +152,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
-<br>
+
 ---
+<br>
 
 ## 📑 Certificate
 
